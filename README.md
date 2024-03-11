@@ -12,7 +12,7 @@ The project explores jobs in the current market. The dataset is built by scrapin
 + Understand current demands in the software industry, detect anomalies.
 
 ### About Libraries
-Our data collection strategy primarily consists of crawling individual pages(using selenium and requests library) at a time, as within the limitations of the respective robot.txt file for the website, and downloading the html page. Strategy is discussed in depth in later sections.
+My data collection strategy primarily consists of crawling individual pages(using selenium and requests library) at a time, as within the limitations of the respective robot.txt file for the website, and downloading the html page. Strategy is discussed in depth in later sections.
 We have used Python as our language of choice, following best practices, guidelines  and conventions. Jupyter notebook for local modelling and exploration.
 
 #### Frameworks used in this projects are:
